@@ -1,6 +1,6 @@
 {
   "name": "sandstorm-capnp-es",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Generated TypeScript and ESM bindings for Sandstorm Cap'n Proto schemas.",
   "license": "Apache-2.0",
   "type": "module",
